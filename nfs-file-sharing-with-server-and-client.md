@@ -25,7 +25,7 @@ sudo exportfs -a
 sudo systemctl restart nfs-server
 ```
 
-## Client (centos)
+## Client
 Create local mount for share:
 ```
 sudo mkdir /var/nfs-files
