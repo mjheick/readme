@@ -38,7 +38,7 @@ sudo mount -t nfs 192.168.168.168:/nfs/files /var/nfs-files
 
 /etc/fstab entry:
 ```
-192.168.168.168:/nfs/files /var/nfs-files /var/locally-mounted nfs defaults 0 0
+192.168.168.168:/nfs/files /var/nfs-files /var/nfs-files nfs defaults 0 0
 ```
 
 ## Firewall stuff
