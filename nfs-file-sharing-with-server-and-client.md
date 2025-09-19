@@ -1,5 +1,5 @@
-# NFS File Sharing between servers
-Redhat/Centos/Rocky-types
+# NFS file sharing between devices
+Redhat/Centos/Rocky-flava-flavs
 
 Install Software
 ```
