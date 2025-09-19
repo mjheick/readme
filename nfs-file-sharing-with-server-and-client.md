@@ -6,7 +6,7 @@ Install Software
 sudo yum install nfs-utils
 ```
 
-## Server (Centos)
+## Server
 Configure share:
 ```
 sudo mkdir -p /nfs/files
